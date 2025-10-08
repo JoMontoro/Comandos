@@ -4,7 +4,9 @@
 Una **rama (branch)** es una línea de desarrollo independiente que permite trabajar sin afectar la rama principal (`main` o `master`).
 
 ---
-
+### 🧩 1.1. Concepto de iniciar proyecto en Git
+```Se empezara para clonar tu repo virtual al local con: git init```
+```Luego seguira el comando: # git clone link del repositorio que esta en tu github```
 ## 🌱 2. Creación de ramas
 ```bash
 git branch <nombre_rama>          # Crea una nueva rama local
